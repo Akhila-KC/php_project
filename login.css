@@ -1,0 +1,49 @@
+
+.link{
+    text-decoration: none;
+}
+.topmargin{
+    margin-top: 50px;
+}
+.bottommargin{
+    margin-bottom: 50px;
+}
+
+.welcome{
+    text-align: center;
+    font-family: cursive;
+    color: black;
+}
+.head{
+    color: orangered;
+    text-align: center;
+    font-family: cursive;
+}
+
+
+
+.formstyle{
+    border:1px solid black; 
+    width:500px; 
+    background-color:rgb(251, 227, 122);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 10px 10px 10px;
+
+}
+
+.footer{
+    background-color: black; 
+    color:white; 
+    font-family: cursive; 
+    text-align: justify;
+}
+.footerlink{
+    color: white;
+}
+.fa{
+    color:rgb(249, 200, 39); 
+    font-size: 30px; 
+    background-color: black;
+}
+

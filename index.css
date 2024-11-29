@@ -1,0 +1,78 @@
+.link{
+    text-decoration: none;
+}
+.topmargin{
+    margin-top: 50px;
+}
+.bottommargin{
+    margin-bottom: 50px;
+}
+
+.welcome{
+    text-align: center;
+    font-family: cursive;
+    color: black;
+}
+.head{
+    color: orangered;
+    text-align: center;
+    font-family: cursive;
+}
+
+
+.card{
+    border-style: none;
+    
+}
+.footer{
+    background-color: black; 
+    color:white; 
+    font-family: cursive; 
+    text-align: justify;
+}
+.footerlink{
+    color: white;
+}
+.fa{
+    color:rgb(249, 200, 39); 
+    font-size: 30px; 
+    background-color: black;
+}
+
+/* * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .banner{
+    width: 100%;
+    overflow: hidden;
+    background-size: cover ;
+    background-position: center;
+  }
+  
+  section {
+    width: 100%;
+    position: relative;
+    margin-top: 150px;
+    height: 800px;
+    background:black;
+    color: #FFF;
+    padding: 20px;
+  }
+  
+  
+  section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -25%;
+    z-index: -1;
+    width: 125%;
+    height: 75%;
+    background: inherit;
+    -webkit-transform: rotate(-3deg);
+    transform: rotate(-2deg);
+    -webkit-transform-origin: 0 0;
+    transform-origin: 0 0;
+  } */

@@ -1,0 +1,47 @@
+
+.link{
+    text-decoration: none;
+}
+.topmargin{
+    margin-top: 50px;
+}
+.bottommargin{
+    margin-bottom: 50px;
+}
+
+.welcome{
+    text-align: center;
+    font-family: cursive;
+    color: black;
+}
+.head{
+    color: orangered;
+    text-align: center;
+    font-family: cursive;
+}
+.trynew{
+    background-image: url(project_images/bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.card{
+    border-style: none;
+    background-color:rgb(251, 227, 122) ;
+}
+.footer{
+    background-color: black; 
+    color:orangered; 
+    font-family: cursive; 
+    text-align: justify;
+}
+.footerlink{
+    color: orangered;
+}
+.fa{
+    color:rgb(249, 200, 39); 
+    font-size: 30px; 
+    background-color: black;
+}

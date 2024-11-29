@@ -1,0 +1,55 @@
+
+.link{
+    text-decoration: none;
+}
+.topmargin{
+    margin-top: 50px;
+}
+.bottommargin{
+    margin-bottom: 50px;
+}
+
+.welcome{
+    text-align: center;
+    font-family: cursive;
+    color: black;
+}
+.head{
+    color: orangered;
+    text-align: center;
+    font-family: cursive;
+}
+
+
+.contact{
+    background-image: url(project_images/contact_us_banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+.card{
+    border-style: none;
+    background-color:rgb(251, 227, 122) ;
+}
+.footer{
+    background-color: black; 
+    color:white; 
+    font-family: cursive; 
+    text-align: justify;
+}
+.footerlink{
+    color: white;
+}
+.fa{
+    color:rgb(249, 200, 39); 
+    font-size: 30px; 
+    background-color: black;
+}
+.fa_link{
+    color:rgb(9, 9, 9); 
+    font-size: 30px; 
+    background-color: rgb(251, 227, 122);
+}
